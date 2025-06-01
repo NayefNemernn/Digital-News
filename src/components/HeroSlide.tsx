@@ -6,7 +6,7 @@ export default function HeroSlide({slide}: {slide:{
      brief: string;
 }}) {
   return (
-    <a href="#" className="img-bg d-flex align-items-end"
+    <a href="#" className="img-bg d-flex align-items-end rounded p-3"
     style={{backgroundImage:`url(/${slide.bgImg})`}}
     >
         <div className="img-bg-inner">

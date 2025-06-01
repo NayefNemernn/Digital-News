@@ -11,7 +11,7 @@ export default function Nav() {
                 navs.map(nav=>(
                     <li key={nav.id}>
                         <Link href={nav.link}>
-                        {nav.name === "Home" ? <i className="bi bi-house-fill "></i> : nav.name }
+                        {nav.name === "Home" ? <i className="bi bi-house-fill fs-5"></i> : nav.name }
                         </Link>
                     </li>
                 ))

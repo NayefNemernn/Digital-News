@@ -52,26 +52,26 @@ export const scis = [
 export const heroSlides = [
   {
     id: 1,
-    bgImg: 'assets/img/post-slide-1.jpg',
-    title: 'This Slide was Created bt abbas nemer using SlideSwiper',
+    bgImg: 'assets/img/slidenews1.png',
+    title: 'This Slide was Created by abbas nemer using SlideSwiper',
     brief: `it must be changed by the end of this website `,
   },
   {
     id: 2,
-    bgImg: 'assets/img/post-slide-2.jpg',
-    title: 'This Slide was Created bt abbas nemer using SlideSwiper',
+    bgImg: 'assets/img/slidenews2.png',
+    title: 'This Slide was Created by abbas nemer using SlideSwiper',
     brief: `it must be changed by the end of this website `,
   },
   {
     id: 3,
-    bgImg: 'assets/img/post-slide-3.jpg',
-    title: 'This Slide was Created bt abbas nemer using SlideSwiper',
+    bgImg: 'assets/img/slidenews3.png',
+    title: 'This Slide was Created by abbas nemer using SlideSwiper',
     brief: `it must be changed by the end of this website `,
   },
   {
     id: 4,
-    bgImg: 'assets/img/post-slide-4.jpg',
-    title: 'This Slide was Created bt abbas nemer using SlideSwiper',
+    bgImg: 'assets/img/slidenews4.png',
+    title: 'This Slide was Created by abbas nemer using SlideSwiper',
     brief: `it must be changed by the end of this website `,
   },
 ];
