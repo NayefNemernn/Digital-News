@@ -1,6 +1,7 @@
 import React from 'react'
 import './searchForm.css'
 
+
 export default function SearchForm({active, formOpen}:{
     active: boolean;
     formOpen: object | any;
